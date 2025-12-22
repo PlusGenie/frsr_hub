@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Finite Residual Sum Rules (FRSR)"
+message: >
+  This repository is a navigation hub for the Finite Residual Sum Rules (FRSR)
+  research program. Please do NOT cite this repository directly.
+  Instead, cite the appropriate Zenodo DOI listed below, corresponding to the
+  specific FRSR paper or release you use.
+type: software
+
+authors:
+  - family-names: Lee
+    given-names: Sangwook
+
+repository-code: https://github.com/PlusGenie/frsr-hub
+
+license: GPL-3.0-or-later
+
+preferred-citation:
+  type: article
+  title: "Finite Residual Rule of Sum (FRSR) V2: Curvature Dynamics from a Spectrally-Constrained Quantum Entanglement Field"
+  authors:
+    - family-names: Lee
+      given-names: Sangwook
+  doi: 10.5281/zenodo.17563295
+  year: 2025
