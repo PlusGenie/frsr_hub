@@ -12,9 +12,9 @@ and supporting tools.
 ## Start Here
 
 ### 📄 Read the theory
-- **FRSR v3.0 (current)**  
-  ➜ Coming Soon
-  *The Trilogy of Duality and the Origin of Dark Energy*
+- **FRSR v3.0 — The Trilogy of Duality and the Origin of Dark Energy (latest)**
+  ➜ https://zenodo.org/records/18063351  
+  *The Entanglement Spectrum as a Physical Source of Dark Energy*
 
 
 ---
@@ -50,6 +50,9 @@ GitHub repositories are for transparency and reproducibility; **citations should
 
 - **(v2.0)** *Finite Residual Rule of Sum (FRSR) V2: Curvature Dynamics from a Spectrally-Constrained Quantum Entanglement Field*  
   DOI: https://doi.org/10.5281/zenodo.17563295
+
+- **(v3.0)** *Finite Residual Rule of Sum (FRSR) V3: The Trilogy of Duality and the Origin of Dark Energy*  
+  DOI: https://doi.org/10.5281/zenodo.18063351
 
 ### 📦 v2.0 associated repositories (living)
 - v2.0 data repo: https://github.com/PlusGenie/frsr_v2_data  
